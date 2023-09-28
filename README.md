@@ -51,5 +51,6 @@ Data visualization is key to understanding complex datasets. We've created inter
 
 
 ---
-![Screenshot (57)](https://github.com/yashnikhare22/Uber-TLC-Price-Prediction/assets/49709163/be787780-98fa-44c7-90a0-60ea5891eea0)
+![Screenshot (57)](https://github.com/yashnikhare22/Uber-TLC-Price-Prediction/assets/49709163/ec16ac11-effb-4d71-bfe1-f1319e106214)
+
 
