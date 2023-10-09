@@ -6,7 +6,7 @@
 
 Welcome to our Data Analytics project repository! This project encompasses three key aspects of data analysis:
 
-1. **ETL Data Pipeline:** We designed a star schema and utilized AWS Glue to construct an ETL data pipeline for a dataset. Leveraging SQL queries on Amazon Athena, we extracted valuable insights from this data, making it ready for analysis.
+1. **ETL Data Pipeline:** I designed a star schema and utilized AWS Glue to construct an ETL data pipeline for a dataset. Leveraging SQL queries on Amazon Athena, we extracted valuable insights from this data, making it ready for analysis.
 
 2. **Hyperparameter Tuning:** In machine learning, hyperparameter tuning is crucial for model performance. We've fine-tuned GBR (Gradient Boosting Regressor) hyperparameters using Grid Search, achieving an impressive Mean Squared Logarithmic Error (MSLE) of 0.52 and an R-squared (r2) value of 0.73 on the test dataset.
 
